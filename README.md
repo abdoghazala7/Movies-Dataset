@@ -1,5 +1,8 @@
-# Movies-Dataset
-## Here I want to answer 4 questions which are :
+
+# Overview :
+### Conducted a thorough analysis of a movies dataset, focusing on addressing specific questions to guide the analysis process, conducted comprehensive data cleaning, visualization, and exploratory data analysis (EDA) on a dataset containing information about movies, Utilized Python libraries such as Pandas, Matplotlib, Numpy and Seaborn to visualize key insights and trends in the data.
+
+# The questions I want to answer :
 >- What is the most frequent genre in the dataset ?
 >
 >
@@ -10,18 +13,3 @@
 >
 >
 >- Which year has the most number of movies ?
-
-# Summary :
->- Most frequent Genre is `Drama`  then `Comedy`  then `Action` 
->
->
->- The Genre and Film with the highest votes by Vote_Average is : `Action, Drama`    **,**    `Kung Fu Master Huo Yuanjia`
->
-> 
->- The Genre and Film with the highest votes by Vote_Count is : `Action, Science Fiction, Adventure`  **,** `Inception` 
->
->
->- Highest popularity movie is `Spider-Man: No Way Home` then `The Batman` then `No Exit`
->
->
->- Year that has the most number of movies is `2021`
